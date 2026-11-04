@@ -1,0 +1,1 @@
+ALTER TABLE `post_platforms` ADD `custom_hashtags` text;

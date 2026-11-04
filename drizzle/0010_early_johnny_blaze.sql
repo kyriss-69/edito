@@ -1,0 +1,1 @@
+ALTER TABLE `posts` ADD `research` text DEFAULT '' NOT NULL;

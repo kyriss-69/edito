@@ -1,0 +1,238 @@
+{
+  "branch": "main",
+  "repos": [
+    {
+      "repo": "coreyhaines31/marketingskills",
+      "files": [
+        {
+          "from": "skills/social/SKILL.md",
+          "to": "commun/SKILL.md"
+        },
+        {
+          "from": "skills/social/references/platforms.md",
+          "to": "commun/references/platforms.md"
+        },
+        {
+          "from": "skills/social/references/platform-limits.md",
+          "to": "commun/references/platform-limits.md"
+        },
+        {
+          "from": "skills/social/references/post-templates.md",
+          "to": "commun/references/post-templates.md"
+        },
+        {
+          "from": "skills/social/references/carousel-frameworks.md",
+          "to": "commun/references/carousel-frameworks.md"
+        },
+        {
+          "from": "skills/social/references/short-form-video.md",
+          "to": "tiktok/short-form-video.md"
+        },
+        {
+          "from": "skills/social/references/x-algorithm.md",
+          "to": "x/x-algorithm.md"
+        },
+        {
+          "from": "LICENSE",
+          "to": "commun/LICENSE"
+        }
+      ]
+    },
+    {
+      "repo": "Jakeschincariol/instagram-agent-skill",
+      "files": [
+        {
+          "from": "skills/ig-caption/SKILL.md",
+          "to": "instagram/ig-caption/SKILL.md"
+        },
+        {
+          "from": "skills/ig-carousel/SKILL.md",
+          "to": "instagram/ig-carousel/SKILL.md"
+        },
+        {
+          "from": "skills/ig-reel/SKILL.md",
+          "to": "instagram/ig-reel/SKILL.md"
+        },
+        {
+          "from": "skills/ig-human/SKILL.md",
+          "to": "instagram/ig-human/SKILL.md"
+        },
+        {
+          "from": "LICENSE",
+          "to": "instagram/LICENSE"
+        }
+      ]
+    },
+    {
+      "repo": "aaron-he-zhu/aaron-marketing-skills",
+      "files": [
+        {
+          "from": "social/craft/short-video-scripter/SKILL.md",
+          "to": "tiktok/short-video-scripter/SKILL.md"
+        },
+        {
+          "from": "social/explore/platform-norm-profiler/SKILL.md",
+          "to": "commun/platform-norm-profiler/SKILL.md"
+        },
+        {
+          "from": "LICENSE",
+          "to": "tiktok/LICENSE-apache"
+        },
+        {
+          "from": "LICENSE",
+          "to": "commun/LICENSE-apache"
+        }
+      ]
+    },
+    {
+      "repo": "ericosiu/ai-marketing-skills",
+      "files": [
+        {
+          "from": "x-longform-post/SKILL.md",
+          "to": "x/x-longform-post/SKILL.md"
+        },
+        {
+          "from": "x-longform-post/references/voice-template.md",
+          "to": "x/x-longform-post/references/voice-template.md"
+        },
+        {
+          "from": "x-longform-post/references/founder-voice.md",
+          "to": "x/x-longform-post/references/founder-voice.md"
+        },
+        {
+          "from": "packaging-youtube-thumbnails/SKILL.md",
+          "to": "youtube/packaging-youtube-thumbnails/SKILL.md"
+        },
+        {
+          "from": "packaging-youtube-thumbnails/references/packaging-rubric.md",
+          "to": "youtube/packaging-youtube-thumbnails/references/packaging-rubric.md"
+        },
+        {
+          "from": "packaging-youtube-thumbnails/references/channel-profile-template.md",
+          "to": "youtube/packaging-youtube-thumbnails/references/channel-profile-template.md"
+        },
+        {
+          "from": "video-caption-generator/SKILL.md",
+          "to": "youtube/video-caption-generator/SKILL.md"
+        },
+        {
+          "from": "LICENSE",
+          "to": "x/LICENSE"
+        },
+        {
+          "from": "LICENSE",
+          "to": "youtube/LICENSE"
+        }
+      ]
+    },
+    {
+      "repo": "sergebulaev/linkedin-skills",
+      "files": [
+        {
+          "from": "LICENSE",
+          "to": "linkedin/LICENSE"
+        },
+        {
+          "from": "skills/linkedin-hook-extractor/SKILL.md",
+          "to": "linkedin/linkedin-hook-extractor/SKILL.md"
+        },
+        {
+          "from": "skills/linkedin-hook-extractor/references/classification-rules.md",
+          "to": "linkedin/linkedin-hook-extractor/references/classification-rules.md"
+        },
+        {
+          "from": "skills/linkedin-hook-extractor/references/examples.md",
+          "to": "linkedin/linkedin-hook-extractor/references/examples.md"
+        },
+        {
+          "from": "skills/linkedin-humanizer/SKILL.md",
+          "to": "linkedin/linkedin-humanizer/SKILL.md"
+        },
+        {
+          "from": "skills/linkedin-humanizer/references/audit-ai-tells.md",
+          "to": "linkedin/linkedin-humanizer/references/audit-ai-tells.md"
+        },
+        {
+          "from": "skills/linkedin-humanizer/references/audit-checklist.md",
+          "to": "linkedin/linkedin-humanizer/references/audit-checklist.md"
+        },
+        {
+          "from": "skills/linkedin-humanizer/references/audit-examples.md",
+          "to": "linkedin/linkedin-humanizer/references/audit-examples.md"
+        },
+        {
+          "from": "skills/linkedin-humanizer/references/detector-list.md",
+          "to": "linkedin/linkedin-humanizer/references/detector-list.md"
+        },
+        {
+          "from": "skills/linkedin-humanizer/references/emoji-patterns.md",
+          "to": "linkedin/linkedin-humanizer/references/emoji-patterns.md"
+        },
+        {
+          "from": "skills/linkedin-humanizer/references/examples.md",
+          "to": "linkedin/linkedin-humanizer/references/examples.md"
+        },
+        {
+          "from": "skills/linkedin-humanizer/references/rules-explainer.md",
+          "to": "linkedin/linkedin-humanizer/references/rules-explainer.md"
+        },
+        {
+          "from": "skills/linkedin-humanizer/references/scrub-rules.md",
+          "to": "linkedin/linkedin-humanizer/references/scrub-rules.md"
+        },
+        {
+          "from": "skills/linkedin-humanizer/references/tier-rationale.md",
+          "to": "linkedin/linkedin-humanizer/references/tier-rationale.md"
+        },
+        {
+          "from": "skills/linkedin-humanizer/references/voice-fingerprint.md",
+          "to": "linkedin/linkedin-humanizer/references/voice-fingerprint.md"
+        },
+        {
+          "from": "skills/linkedin-humanizer/sub-skills/detector-tester.md",
+          "to": "linkedin/linkedin-humanizer/sub-skills/detector-tester.md"
+        },
+        {
+          "from": "skills/linkedin-humanizer/sub-skills/emoji-detector.md",
+          "to": "linkedin/linkedin-humanizer/sub-skills/emoji-detector.md"
+        },
+        {
+          "from": "skills/linkedin-humanizer/sub-skills/illustration.md",
+          "to": "linkedin/linkedin-humanizer/sub-skills/illustration.md"
+        },
+        {
+          "from": "skills/linkedin-humanizer/sub-skills/post-audit.md",
+          "to": "linkedin/linkedin-humanizer/sub-skills/post-audit.md"
+        },
+        {
+          "from": "skills/linkedin-humanizer/sub-skills/rules-explainer.md",
+          "to": "linkedin/linkedin-humanizer/sub-skills/rules-explainer.md"
+        },
+        {
+          "from": "skills/linkedin-humanizer/sub-skills/voice-profile.md",
+          "to": "linkedin/linkedin-humanizer/sub-skills/voice-profile.md"
+        },
+        {
+          "from": "skills/linkedin-post-writer/SKILL.md",
+          "to": "linkedin/linkedin-post-writer/SKILL.md"
+        },
+        {
+          "from": "skills/linkedin-post-writer/references/algorithm-heuristics.md",
+          "to": "linkedin/linkedin-post-writer/references/algorithm-heuristics.md"
+        },
+        {
+          "from": "skills/linkedin-post-writer/references/hook-formulas.md",
+          "to": "linkedin/linkedin-post-writer/references/hook-formulas.md"
+        },
+        {
+          "from": "skills/linkedin-post-writer/references/humanizer-checklist.md",
+          "to": "linkedin/linkedin-post-writer/references/humanizer-checklist.md"
+        },
+        {
+          "from": "skills/linkedin-repurposer/SKILL.md",
+          "to": "linkedin/linkedin-repurposer/SKILL.md"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "workspaces": [
+    {
+      "id": "ma-marque",
+      "name": "Ma marque",
+      "brandDoc": "MA-MARQUE.md",
+      "pillars": [
+        { "name": "Éducatif", "color": "#3b82f6" },
+        { "name": "Coulisses", "color": "#f97316" },
+        { "name": "Promo", "color": "#8b5cf6" }
+      ],
+      "brief": {
+        "description": "Ce que fait la marque, en deux phrases.",
+        "audience": "À qui tu parles.",
+        "style": "naturel, chaleureux et concret"
+      }
+    },
+    {
+      "id": "perso",
+      "name": "Compte perso",
+      "starterLibrary": false,
+      "guides": [{ "title": "Leçons des posts publiés", "path": "/chemin/absolu/vers/log.md" }]
+    }
+  ]
+}

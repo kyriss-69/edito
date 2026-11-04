@@ -1,0 +1,1 @@
+ALTER TABLE `posts` ADD `ai_mode` text DEFAULT 'open' NOT NULL;
